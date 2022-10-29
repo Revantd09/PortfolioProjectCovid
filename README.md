@@ -1,1 +1,2 @@
-# PortfolioProjectCovid
+# PortfolioProjectCovid(SQL data exploration)
+
